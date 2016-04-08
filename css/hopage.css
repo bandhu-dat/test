@@ -1,0 +1,179 @@
+<html>
+ <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <style>
+
+            body {
+                background-color: activecaption;
+            }
+            p{
+                margin-left: 800px;
+                letter-spacing: 0.5px;
+
+
+            }
+            p.ea
+            {
+                margin-left: 100px;
+
+
+
+            }
+            p.ex{
+
+                margin-left: 10px;
+                background-color: yellowgreen;
+                margin-right: 10px;
+
+            }
+            p.ey{
+
+                margin-left: 10px;
+                margin-right: 10px;
+
+            }
+            p.ez{
+
+                margin-left: 40px;
+                margin-right: 10px;
+
+            }
+            div.content{
+                background-color: white;
+            }
+
+            div.ey{
+                background-color: yellowgreen;
+
+                padding-right: 200px ;
+                height: 110px;
+            }
+            div.eq{
+                background-color: white;
+
+                padding-left: : 150px ;
+
+            }
+            div.article{
+                display : inline-block  ;
+            }
+            div.article1{
+                display : inline-block  ;
+                margin-left: 20px;
+                margin-right: 50px;
+            }
+            div.store{
+                margin-top: 50px;
+                margin-left: 140px;
+                margin-right: 50px;
+            }
+            div.footertitle{
+                margin-top: 50px;
+                margin-left: 190px;
+                margin-right: 50px;
+            }
+
+            p.ef{
+
+                background-color: buttonface;
+                height: 110px ;
+
+            }
+
+            p.ea{
+                alignment-adjust: central;
+            }
+
+            P.ed{
+                margin-top: 50px;
+                margin-left: 500px;
+                letter-spacing: 0.5px;
+
+            }
+            p.a{
+
+                margin-left: 490px;
+                margin-right: 100px;
+            }
+            p.b{
+                margin-left :60px ;
+            }
+            div.z{
+                display : inline-block ;
+                
+            }
+            div.footer1{
+               margin-left: 200px;
+            }
+            div.footer2{
+               margin-left: 200px;
+            }
+            div.salse{
+                display : inline-block  ;
+            }
+             div.delar{
+                display : inline-block  ;
+            }
+            p.salse{
+                margin-left :600px ;
+            }
+             p.delar{
+                margin-left :270px ;
+            }
+            
+            
+             /* jssor slider bullet navigator skin 05 css */
+        /*
+        .jssorb05 div           (normal)
+        .jssorb05 div:hover     (normal mouseover)
+        .jssorb05 .av           (active)
+        .jssorb05 .av:hover     (active mouseover)
+        .jssorb05 .dn           (mousedown)
+        */
+        .jssorb05 {
+            position: absolute;
+        }
+        .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+            position: absolute;
+            /* size of bullet elment */
+            width: 16px;
+            height: 16px;
+            background: url('img/b05.png') no-repeat;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .jssorb05 div { background-position: -7px -7px; }
+        .jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
+        .jssorb05 .av { background-position: -67px -7px; }
+        .jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
+
+        /* jssor slider arrow navigator skin 22 css */
+        /*
+        .jssora22l                  (normal)
+        .jssora22r                  (normal)
+        .jssora22l:hover            (normal mouseover)
+        .jssora22r:hover            (normal mouseover)
+        .jssora22l.jssora22ldn      (mousedown)
+        .jssora22r.jssora22rdn      (mousedown)
+        */
+        .jssora22l, .jssora22r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 40px;
+            height: 58px;
+            cursor: pointer;
+            background: url('img/a22.png') center center no-repeat;
+            overflow: hidden;
+        }
+        .jssora22l { background-position: -10px -31px; }
+        .jssora22r { background-position: -70px -31px; }
+        .jssora22l:hover { background-position: -130px -31px; }
+        .jssora22r:hover { background-position: -190px -31px; }
+        .jssora22l.jssora22ldn { background-position: -250px -31px; }
+        .jssora22r.jssora22rdn { background-position: -310px -31px; }F
+             </style>
+
+</html>
